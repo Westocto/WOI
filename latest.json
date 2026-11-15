@@ -1,7 +1,10 @@
 {
   "version": "1.3.0",
-  "url": "https://raw.githubusercontent.com/Westocto/woi/main/releases/1.3.0/WOIdownloader_setup.exe",
-  "sha256": "9285739d4185e3e06d1e2a41811ebcbbc98cbf1597a131bb4d9f10eb6d9c8a55",
-  "size": 16760320,
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.3.0/WOIdownloader_setup.exe",
+  "mirrors": [
+    "https://github.com/Westocto/WOI/raw/main/releases/1.3.0/WOIdownloader_setup.exe"
+  ],
+  "sha256": "b4e9ad7cbf682d74f309a451f81d9a425c4913f06c407ef2948f1f0660814d86",
+  "size": 16761856,
   "notes": "Uygulama içinden güncelleme; açılışta yalnızca sistem tepsisi; çözümleme sürerken düğmeler pasif."
 }
