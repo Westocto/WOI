@@ -1,10 +1,10 @@
 {
-  "version": "1.4.4",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.4.4/WOIdownloader_setup.exe",
+  "version": "1.4.5",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.4.5/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.4.4/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.4.5/WOIdownloader_setup.exe"
   ],
-  "sha256": "fbd64e53375f0252a1bfe78c7f877e8901fffe10c2379fc54f47449cb519a565",
-  "size": 16784384,
-  "notes": "Suno: oturum çerezi, akış adresi ve ayrıntılı tanı kaydı."
+  "sha256": "bec3ae008bca1d3eb60acb69bd54a47cd941207a8139ecc9515f8af918c62982",
+  "size": 16785920,
+  "notes": "Suno: çalan şarkı Suno'nun akış dosyasından (m4a) alınır."
 }
