@@ -1,10 +1,10 @@
 {
-  "version": "1.4.3",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.4.3/WOIdownloader_setup.exe",
+  "version": "1.4.4",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.4.4/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.4.3/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.4.4/WOIdownloader_setup.exe"
   ],
-  "sha256": "0b40e5dfba99bd0f67ca3a82810327778645f6846428913a643ef5d34d28e4a0",
-  "size": 16782848,
-  "notes": "Suno: oturum açıkken Suno'nun kendi ses adresi kullanılır; tanı kaydı."
+  "sha256": "fbd64e53375f0252a1bfe78c7f877e8901fffe10c2379fc54f47449cb519a565",
+  "size": 16784384,
+  "notes": "Suno: oturum çerezi, akış adresi ve ayrıntılı tanı kaydı."
 }
