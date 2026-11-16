@@ -1,10 +1,10 @@
 {
-  "version": "1.3.0",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.3.0/WOIdownloader_setup.exe",
+  "version": "1.4.0",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.4.0/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.3.0/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.4.0/WOIdownloader_setup.exe"
   ],
-  "sha256": "b4e9ad7cbf682d74f309a451f81d9a425c4913f06c407ef2948f1f0660814d86",
-  "size": 16761856,
-  "notes": "Uygulama içinden güncelleme; açılışta yalnızca sistem tepsisi; çözümleme sürerken düğmeler pasif."
+  "sha256": "4cd59fca4d54fe41d20e0f716ddff69829e8aa2f6ed63a6920fd6e0a8a62c0be",
+  "size": 16770048,
+  "notes": "Suno'dan şarkı indirme (MP3/WAV)."
 }
