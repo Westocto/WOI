@@ -1,10 +1,10 @@
 {
-  "version": "1.6.5",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.5/woi-mac-paket.zip",
+  "version": "1.6.6",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.6/woi-mac-paket.zip",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.5/woi-mac-paket.zip"
+    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.6/woi-mac-paket.zip"
   ],
-  "sha256": "dd7dab2dd50d47c7fdb6362f3494374631aaa6b86f41fd8c894d4818b7fbab16",
-  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.5/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
-  "notes": "Ayarlar için çark simgesi; ayar sırası eklentiyle aynı; rozet büyüdü; alttaki yazı silik"
+  "sha256": "495475df6ab9a0e0e4ed038c8610c1326e6217aa3b7043ad6da61f23e011d702",
+  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.6/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
+  "notes": "2160p geri geldi: çözünürlük düğmelerinde kodek yazar (H.264 / AV1); alt satır ve ayarlar başlığı düzenlendi"
 }
