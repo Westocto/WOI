@@ -1,10 +1,10 @@
 {
-  "version": "1.5.0",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.5.0/WOIdownloader_setup.exe",
+  "version": "1.5.1",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.5.1/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.5.0/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.5.1/WOIdownloader_setup.exe"
   ],
-  "sha256": "3acbfd2e85e6a43b62a3dc0cf6f519e6a171592baea5f733d3a095bd8d189a20",
-  "size": 16863232,
-  "notes": "Yeni ad ve logo: WOI Social Media Downloader."
+  "sha256": "3d25d43b00d73a65a3f483ac180d78739b501194ae7b73d83f2bdf32e9dd096a",
+  "size": 16871936,
+  "notes": "Mac için Chrome eklentisi + yardımcı; eklenti metinleri."
 }
