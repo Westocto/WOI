@@ -1,10 +1,10 @@
 {
-  "version": "1.6.4",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.4/woi-mac-paket.zip",
+  "version": "1.6.5",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.5/woi-mac-paket.zip",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.4/woi-mac-paket.zip"
+    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.5/woi-mac-paket.zip"
   ],
-  "sha256": "56be6e93c719090a6d8e536e76582811ad4b5801d907c196aaf794fc72d26085",
-  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.4/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
-  "notes": "3D rozet sol üstte, WOI yazısı sol altta; pencere biraz uzadı"
+  "sha256": "dd7dab2dd50d47c7fdb6362f3494374631aaa6b86f41fd8c894d4818b7fbab16",
+  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.5/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
+  "notes": "Ayarlar için çark simgesi; ayar sırası eklentiyle aynı; rozet büyüdü; alttaki yazı silik"
 }
