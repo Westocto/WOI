@@ -1,10 +1,10 @@
 {
-  "version": "1.6.1",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.1/woi-mac-paket.zip",
+  "version": "1.6.2",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.2/woi-mac-paket.zip",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.1/woi-mac-paket.zip"
+    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.2/woi-mac-paket.zip"
   ],
-  "sha256": "c08f3180ca7af23a0dffd70a5757d62322bcc05ccfa99b20c9e20c112e50adfb",
-  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.1/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
-  "notes": "Videolar QuickTime ve Premiere ile uyumlu MP4 (H.264 + AAC) olarak iner; TikTok akışından indirme düzeltildi"
+  "sha256": "13eb8547268adea2c62c883adf5d23fcaf307bb6a179370fea24c2543db9da7d",
+  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.2/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
+  "notes": "3D logo; açık pencere görev çubuğu simgesine tıklayınca küçülür; daha hafif arka plan bulanıklığı; Pencere saydamlığı ayarı kaldırıldı"
 }
