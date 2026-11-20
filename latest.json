@@ -1,10 +1,10 @@
 {
-  "version": "1.6.6",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.6/WOIdownloader_setup.exe",
+  "version": "1.6.7",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.7/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.6.6/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.6.7/WOIdownloader_setup.exe"
   ],
-  "sha256": "251fc6daaf912aec9e7ffddfa9d52e59571b0997faef20c67a5cf8985cdd5843",
-  "size": 17096192,
-  "notes": "2160p geri geldi: çözünürlük düğmelerinde kodek yazar (H.264 / AV1); alt satır ve ayarlar başlığı düzenlendi"
+  "sha256": "cd5e5609db7e5aa50ce038643a7b87ffcebc56dde55f913e3fc0ad711cb16607",
+  "size": 17126912,
+  "notes": "Eklenti çözümlenen videoyu hatırlar; alt satır hizası ve Montserrat yazı tipi"
 }
