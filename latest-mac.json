@@ -1,10 +1,10 @@
 {
-  "version": "1.6.2",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.2/woi-mac-paket.zip",
+  "version": "1.6.3",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.3/woi-mac-paket.zip",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.2/woi-mac-paket.zip"
+    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.3/woi-mac-paket.zip"
   ],
-  "sha256": "13eb8547268adea2c62c883adf5d23fcaf307bb6a179370fea24c2543db9da7d",
-  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.2/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
-  "notes": "3D logo; açık pencere görev çubuğu simgesine tıklayınca küçülür; daha hafif arka plan bulanıklığı; Pencere saydamlığı ayarı kaldırıldı"
+  "sha256": "2ee78e9dfa2b6a99ef3f08a9a2bcaf3a39ba200583805e0410303de78fac1713",
+  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.3/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
+  "notes": "Akrilik bulanıklık geri geldi (sabit %70 saydam); yazı logosu solda, 3D rozet sol altta; sürüm bilgisi altta"
 }

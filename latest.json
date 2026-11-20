@@ -1,10 +1,10 @@
 {
-  "version": "1.6.2",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.2/WOIdownloader_setup.exe",
+  "version": "1.6.3",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.3/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.6.2/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.6.3/WOIdownloader_setup.exe"
   ],
-  "sha256": "f4096dcba9600c7f1e8ce1514e74de29f7cc90c4ed4108921f2495d86acb1697",
-  "size": 17077760,
-  "notes": "3D logo; açık pencere görev çubuğu simgesine tıklayınca küçülür; daha hafif arka plan bulanıklığı; Pencere saydamlığı ayarı kaldırıldı"
+  "sha256": "b934a8f7b24cf06fab75952e9597a0086592263640444fb5e1e74d492bc785cd",
+  "size": 17088512,
+  "notes": "Akrilik bulanıklık geri geldi (sabit %70 saydam); yazı logosu solda, 3D rozet sol altta; sürüm bilgisi altta"
 }
