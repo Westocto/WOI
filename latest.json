@@ -1,10 +1,10 @@
 {
-  "version": "1.5.1",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.5.1/WOIdownloader_setup.exe",
+  "version": "1.6.0",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.0/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.5.1/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.6.0/WOIdownloader_setup.exe"
   ],
-  "sha256": "3d25d43b00d73a65a3f483ac180d78739b501194ae7b73d83f2bdf32e9dd096a",
-  "size": 16871936,
-  "notes": "Mac için Chrome eklentisi + yardımcı; eklenti metinleri."
+  "sha256": "32b8565798d43a3e562c59129d234a0ee3a82f270fc4a0d6d09999a5895177bc",
+  "size": 16944640,
+  "notes": "Açık/koyu tema, eklentide Ayarlar menüsü ve indirme iptali, Pinterest desteği, tüm videolar MP4, Mac kurulum uygulaması"
 }

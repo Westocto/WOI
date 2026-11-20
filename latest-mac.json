@@ -1,10 +1,10 @@
 {
-  "version": "1.5.1",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.5.1/woi-mac-paket.zip",
+  "version": "1.6.0",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.0/woi-mac-paket.zip",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.5.1/woi-mac-paket.zip"
+    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.0/woi-mac-paket.zip"
   ],
-  "sha256": "7ab778a9e4ccac49c09f752d58b832a747632a605c965336749597e1679c374d",
-  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.5.1/WOI-Social-Media-Downloader-Mac.zip",
-  "notes": "Mac için Chrome eklentisi + yardımcı; eklenti metinleri."
+  "sha256": "1ee5debb1e6ea9790f5a0466738797c3660c9403dc8a21797724848d1c8d908e",
+  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.0/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
+  "notes": "Açık/koyu tema, eklentide Ayarlar menüsü ve indirme iptali, Pinterest desteği, tüm videolar MP4, Mac kurulum uygulaması"
 }
