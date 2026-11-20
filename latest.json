@@ -1,10 +1,10 @@
 {
-  "version": "1.6.0",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.0/WOIdownloader_setup.exe",
+  "version": "1.6.1",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.1/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.6.0/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.6.1/WOIdownloader_setup.exe"
   ],
-  "sha256": "32b8565798d43a3e562c59129d234a0ee3a82f270fc4a0d6d09999a5895177bc",
-  "size": 16944640,
-  "notes": "Açık/koyu tema, eklentide Ayarlar menüsü ve indirme iptali, Pinterest desteği, tüm videolar MP4, Mac kurulum uygulaması"
+  "sha256": "6c25f4c965c9eb8ed59c11159c84a181a403bff950902373a5fdb5c99fb12ea0",
+  "size": 16952320,
+  "notes": "Videolar QuickTime ve Premiere ile uyumlu MP4 (H.264 + AAC) olarak iner; TikTok akışından indirme düzeltildi"
 }

@@ -1,10 +1,10 @@
 {
-  "version": "1.6.0",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.0/woi-mac-paket.zip",
+  "version": "1.6.1",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.1/woi-mac-paket.zip",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.0/woi-mac-paket.zip"
+    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.1/woi-mac-paket.zip"
   ],
-  "sha256": "1ee5debb1e6ea9790f5a0466738797c3660c9403dc8a21797724848d1c8d908e",
-  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.0/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
-  "notes": "Açık/koyu tema, eklentide Ayarlar menüsü ve indirme iptali, Pinterest desteği, tüm videolar MP4, Mac kurulum uygulaması"
+  "sha256": "c08f3180ca7af23a0dffd70a5757d62322bcc05ccfa99b20c9e20c112e50adfb",
+  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.1/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
+  "notes": "Videolar QuickTime ve Premiere ile uyumlu MP4 (H.264 + AAC) olarak iner; TikTok akışından indirme düzeltildi"
 }
