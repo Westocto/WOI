@@ -1,0 +1,10 @@
+{
+  "version": "1.1.1",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/substrans/releases/1.1.1/WOISubstrans_setup.exe",
+  "mirrors": [
+    "https://github.com/Westocto/WOI/raw/main/substrans/releases/1.1.1/WOISubstrans_setup.exe"
+  ],
+  "sha256": "db286d5f743fcc74e4b4970e42e34335acce6c937b94be2a0051efe6366226d9",
+  "size": 16790528,
+  "notes": "Çeviri tarayıcı (WebView2) üzerinden; Google doğrulaması gerekirse tek tıkla. Pencere ölçek düzeltmesi, canlı önizleme kaldırıldı, kurulum programı."
+}
