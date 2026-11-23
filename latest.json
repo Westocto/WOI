@@ -1,10 +1,10 @@
 {
-  "version": "1.6.7",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.7/WOIdownloader_setup.exe",
+  "version": "1.6.8",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/1.6.8/WOIdownloader_setup.exe",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/1.6.7/WOIdownloader_setup.exe"
+    "https://github.com/Westocto/WOI/raw/main/releases/1.6.8/WOIdownloader_setup.exe"
   ],
-  "sha256": "cd5e5609db7e5aa50ce038643a7b87ffcebc56dde55f913e3fc0ad711cb16607",
-  "size": 17126912,
-  "notes": "Eklenti çözümlenen videoyu hatırlar; alt satır hizası ve Montserrat yazı tipi"
+  "sha256": "e782a3a733ae64e5038941472e61c100cb588332b38413d7581c680d29a47d33",
+  "size": 17127936,
+  "notes": "Instagram videoları yeniden H.264 olarak, en yüksek çözünürlükte iner"
 }

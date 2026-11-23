@@ -1,10 +1,10 @@
 {
-  "version": "1.6.7",
-  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.7/woi-mac-paket.zip",
+  "version": "1.6.8",
+  "url": "https://raw.githubusercontent.com/Westocto/WOI/main/releases/mac/1.6.8/woi-mac-paket.zip",
   "mirrors": [
-    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.7/woi-mac-paket.zip"
+    "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.8/woi-mac-paket.zip"
   ],
-  "sha256": "11cfe5ee835910fd1577e662ba9788422bb74b0a86035b3dcf936c7964fc7d0d",
-  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.7/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
-  "notes": "Eklenti çözümlenen videoyu hatırlar; alt satır hizası ve Montserrat yazı tipi"
+  "sha256": "e3317b965b8aaf3567f66b67ab0c14c52887e75bd0f1c6fef320c29c1c122504",
+  "installer": "https://github.com/Westocto/WOI/raw/main/releases/mac/1.6.8/WOI-Social-Media-Downloader-Kurulum-Mac.zip",
+  "notes": "Instagram videoları yeniden H.264 olarak, en yüksek çözünürlükte iner"
 }
